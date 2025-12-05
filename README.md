@@ -23,9 +23,9 @@ The following features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features (gif file is too large, please download to view.):
+Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1O62GZPQK2g1ZV5zgq3F5g-qWC8yYhm-N/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/EO0mipZ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
