@@ -25,7 +25,7 @@ The following features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src="https://imgur.com/a/EO0mipZ" width="320" height="240" controls></video>
+https://imgur.com/a/EO0mipZ
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
